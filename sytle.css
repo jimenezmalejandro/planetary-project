@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    
+}
+
+.planet {
+    position: absolute;
+    height: 40%;
+    width: 18%;
+    top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
